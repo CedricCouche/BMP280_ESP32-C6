@@ -15,6 +15,8 @@ Basic reading of BMP280 Barometric sensor on a ESP32-C6 dev board.
 
 ## Electronic diagram
 
+Interface used : I²C
+
 ![Electronic diagram](BMP280_ESP32-C6.png)
 
 
